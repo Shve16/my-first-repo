@@ -4,3 +4,4 @@ whoami
 pwd
 date
 ifconfig
+echo "end of the script"
